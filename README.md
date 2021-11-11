@@ -2,7 +2,7 @@
 
 
 
-- 🔭 Hoje estou attuando com Arquiteto de Sistemas | Tech Lead | Dev FullStack
+- 🔭 Hoje estou atuando com Arquiteto de Sistemas | Tech Lead | Dev FullStack
 - 🌱 Tenho estudado Arquitetura de Microsserviços, VueJS e Laravel
 - 💬 Tenho 40 anos, sou apaixonado por Tecnologia, desenvolvo desde os meus 15 anos, tenho grande vivência em Infra, DevOps e Desenvolvimento de Software ao todo 25 anos de experiência.
 - ⚡ Comecei faculdade diversas vezes, porém não conclui, mas complementei todo meu conhecimento através de cursos intensivos na área e bootcamps.
